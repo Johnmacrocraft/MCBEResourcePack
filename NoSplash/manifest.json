@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Removes splash message from the start screen of game! Made by Johnmacrocraft.",
+        "name": "NoSplash",
+        "uuid": "bcf13cf2-5543-4f1f-9fd8-5969291bea0e",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "Removes splash message from the start screen of game! Made by Johnmacrocraft.",
+            "type": "resources",
+            "uuid": "8b97941a-d3c2-4a29-a82d-614eecda9834",
+            "version": [1, 0, 0]
+        }
+    ]
+}
